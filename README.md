@@ -1,7 +1,7 @@
 # DATN
 # Hệ Thống Mã Nguồn Mở Giúp Quản Lý Và Vá Lỗ Hổng Trên Endpoint Trong Doanh Nghiệp
 
-> Một mô tả ngắn gọn, súc tích về dự án (1-2 câu). Ví dụ: "Một kịch bản tự động hóa sử dụng Python để phân tích log từ Snort IDS và gửi cảnh báo qua email."
+> Tích hợp với công cụ quét lỗ hổng OpenVAS, quản lý lỗ hổng DefectDojo và ManageEgine Endpoint Central để tiến hành vá lỗ hổng bảo mật trên các endpoint
 
 ## 1. Vấn đề & Mục tiêu
 * Mô tả vấn đề mà dự án giải quyết (ví dụ: "Việc kiểm tra log thủ công tốn thời gian và dễ bỏ sót cảnh báo quan trọng.").
