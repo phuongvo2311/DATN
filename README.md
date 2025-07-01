@@ -1,5 +1,5 @@
 # DATN
-# Tên Dự án của bạn (Ví dụ: Hệ thống Giám sát An ninh Tự động)
+# Hệ Thống Mã Nguồn Mở Giúp Quản Lý Và Vá Lỗ Hổng Trên Endpoint Trong Doanh Nghiệp
 
 > Một mô tả ngắn gọn, súc tích về dự án (1-2 câu). Ví dụ: "Một kịch bản tự động hóa sử dụng Python để phân tích log từ Snort IDS và gửi cảnh báo qua email."
 
